@@ -1,0 +1,8 @@
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\bin\Debug\CSharp_ConApp.exe.config
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\bin\Debug\CSharp_ConApp.exe
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\bin\Debug\CSharp_ConApp.pdb
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\obj\Debug\CSharp_ConApp.exe
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\obj\Debug\CSharp_ConApp.pdb
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\obj\Debug\CSharp_ConApp.csprojResolveAssemblyReference.cache
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\bin\Debug\Newtonsoft.Json.dll
+D:\Amit\Projects\CSharp_ConApp\CSharp_ConApp\bin\Debug\Newtonsoft.Json.xml
